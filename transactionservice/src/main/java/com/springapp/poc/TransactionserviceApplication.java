@@ -1,4 +1,4 @@
-package com.springapp.transactionservice;
+package com.springapp.poc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
